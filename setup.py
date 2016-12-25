@@ -14,5 +14,5 @@ setup(
     },
     url='https://github.com/jamesbvaughan/sendsms',
     download_url='https://github.com/jamesbvaughan/sendsms/tarball/0.2',
-    version='0.2',
+    version='0.2.0',
 )
