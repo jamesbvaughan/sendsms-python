@@ -1,0 +1,7 @@
+[Twilio]
+ACCOUNT_SID =
+AUTH_TOKEN =
+TWILIO_NUMBER =
+
+[General]
+MY_NUMBER =
