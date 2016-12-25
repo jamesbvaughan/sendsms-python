@@ -13,5 +13,5 @@ setup(
         'console_scripts': ['sendsms=sendsms.command_line:main'],
     },
     url='https://github.com/jamesbvaughan/sendsms',
-    version='0.1',
+    version='0.2',
 )
